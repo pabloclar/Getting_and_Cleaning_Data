@@ -54,4 +54,4 @@ Use gsub function for pattern replacement to clean up the data labels.
 
 ## Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Per the project instructions, we need to produce only a data set with the average of each veriable for each activity and subject
+According to the instructions, we need to produce only a data set with the average of each veriable for each activity and subject
