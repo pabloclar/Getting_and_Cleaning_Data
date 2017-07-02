@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Project
-**Pablo Clar
+** Pablo Clar
 
-**Repo for the submission of the course project for the COURSERA - Johns Hopkins Getting and Cleaning Data course.
+** Repo for the submission of the course project for the COURSERA - Johns Hopkins Getting and Cleaning Data course.
 
 ## Overview
 
